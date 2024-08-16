@@ -1,2 +1,2 @@
-# event-task
+# tasks
 Task management repository for event
